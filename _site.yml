@@ -2,7 +2,7 @@ name: "."
 title: "Aaron K"
 description: |
   Here is my website
-output_dir: "docs"
+output_dir: "244_website"
 navbar:
   right:
     - text: "Home"
