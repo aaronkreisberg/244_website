@@ -1,7 +1,7 @@
 name: "."
-title: "Aaron K"
+title: "Aaron Kreisberg"
 description: |
-  Here is my website
+  Aaron Kreisberg
 output_dir: "docs"
 navbar:
   right:

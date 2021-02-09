@@ -12,19 +12,7 @@ links:
     url: "mailto:aaronkreisberg@ucsb.edu"
 output:
   postcards::trestles
+site: distill::distill_website
 ---
  
- 
-I'm Aaron Kreisberg, a first year master's student at UC Santa Barbara's Bren School of Environmental Science & Managment. I look forward to continuing to develop my data science and coding skills to further a career in conservation.
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
+I'm Aaron Kreisberg, a first year master's student at UC Santa Barbara's Bren School of Environmental Science & Managment. I look forward to continuing to develop my data science, statistical analysis, and coding skills to further a career in conservation.
