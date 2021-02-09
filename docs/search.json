@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-08T23:14:34-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Aaron Kreisberg",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Aaron Kreisberg\r\n          \r\n          \r\n          Home\r\n          About\r\n          AaronK\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Aaron Kreisberg\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Twitter\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            I’m Aaron Kreisberg, a first year master’s student at UC Santa Barbara’s Bren School of Environmental Science & Managment. I look forward to continuing to develop my data science, statistical analysis, and coding skills to further a career in conservation.\r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Aaron Kreisberg\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              I’m Aaron Kreisberg, a first year master’s student at UC Santa Barbara’s Bren School of Environmental Science & Managment. I look forward to continuing to develop my data science, statistical analysis, and coding skills to further a career in conservation.\r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-02-08T23:17:58-08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
