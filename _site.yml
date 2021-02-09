@@ -2,12 +2,14 @@ name: "."
 title: "Aaron K"
 description: |
   Here is my website
-output_dir: "244_website"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "AaronK"
+      href: aaronk.html
 output: distill::distill_article
-site: distill::distill_website
+
